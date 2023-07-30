@@ -93,7 +93,6 @@ void TestTopk()
 	a[3144] = 1000000 + 10;
 
 	PrintTopK(a, n, 10);
-	// test
 }
 int main() {
 	//TestHeap();
